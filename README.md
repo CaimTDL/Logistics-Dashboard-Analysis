@@ -23,9 +23,13 @@ This project involved the redesign and analysis of a logistics dashboard. The pr
 
 ## Comparison with the Old Dashboard
 ### Old Dashboard
-![Old Dashboard](./Screenshot%20from%202025-01-23%2015-06-38.png)
+
+![Screenshot from 2025-01-24 16-03-16](https://github.com/user-attachments/assets/69902d61-c1bb-41cb-a5b9-e234b227d42d)
+
 
 ### New Dashboard
-![New Dashboard](./image.png)
+
+![Screenshot from 2025-01-23 15-06-38](https://github.com/user-attachments/assets/d88119ba-2460-426b-a208-c1b9add45bfe)
+
 
 
